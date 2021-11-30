@@ -18,7 +18,7 @@
 }
 #navbarSupportedContent > ul > li:nth-child(n) > a:hover{
 	text-decoration: underline;
-	color: #white;
+	color: white;
 }
 .navbar .navbar-nav{
 	position: absolute;
@@ -153,11 +153,11 @@ padding:7% 15%;
 
 
 #footer{
-	padding: 0 0 0 43%;
+	padding: 0 0 0 44%;
 }
 
 #footer i{
-	margin-left:4%;
+	margin-left:3%;
 	padding-left: 1%;
 }
 
@@ -205,7 +205,7 @@ padding:7% 15%;
 
 #footer i{
 	margin-left:10%;
-	padding-left: 4%;
+	padding: 8%;
 }
 #cta button{
 	margin: 5%;
